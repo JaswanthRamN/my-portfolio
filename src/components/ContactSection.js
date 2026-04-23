@@ -36,7 +36,7 @@ const contactItems = [
     color: '#ff6b9d',
     isLink: true,
     getHref: (info) => info.linkedin,
-    getValue: () => 'linkedin.com/in/jaswanthram',
+    getValue: () => 'linkedin.com/in/jaswanth-ram-nagabhyrava-0740151b3',
     external: true,
   },
 ];

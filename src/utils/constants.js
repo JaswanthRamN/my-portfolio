@@ -5,8 +5,8 @@ export const PERSONAL_INFO = {
   location: 'Baltimore, MD',
   email: 'jrnagabhy@gmail.com',
   phone: '+1(443)540-4434',
-  linkedin: 'https://www.linkedin.com/in/jaswanthram',
-  github: 'https://github.com/jaswanthram',
+  linkedin: 'https://www.linkedin.com/in/jaswanth-ram-nagabhyrava-0740151b3/',
+  github: 'https://github.com/JaswanthRamN',
 };
 
 // Hero Section
@@ -35,7 +35,7 @@ export const PROJECTS = [
     ],
     metrics: { efficiency: '90% faster reporting', scale: '1M+ records analyzed' },
     stack: ['Python', 'SQL', 'Tableau', 'Data Pipelines'],
-    github: 'https://github.com/jaswanthram/baltimore-crime-analysis',
+    github: 'https://github.com/JaswanthRamN/baltimore-crime-analysis',
     highlights: ['Geographic pattern detection', 'Temporal trend analysis', 'Automated reporting'],
   },
   {
@@ -51,7 +51,7 @@ export const PROJECTS = [
     ],
     metrics: { accuracy: '93% R²', efficiency: '6x faster analysis' },
     stack: ['Python', 'scikit-learn', 'FastF1 API', 'Feature Engineering'],
-    github: 'https://github.com/jaswanthram/f1-lap-prediction',
+    github: 'https://github.com/JaswanthRamN/f1-lap-prediction',
     highlights: ['Regression modeling', 'Telemetry analysis', 'Automated visualization'],
   },
   {
@@ -67,7 +67,7 @@ export const PROJECTS = [
     ],
     metrics: { accuracy: '+12% F1-score', impact: '20% better detection' },
     stack: ['Python', 'scikit-learn', 'Flask', 'Dashboards'],
-    github: 'https://github.com/jaswanthram/behavior-prediction',
+    github: 'https://github.com/JaswanthRamN/behavior-prediction',
     highlights: ['Classification models', 'Real-time inference', 'Interactive dashboards'],
   },
 ];
